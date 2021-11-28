@@ -1,0 +1,26 @@
+.banner{
+	 background-image: url("../../avatar/Sky.jpg");
+	 background-size: cover;
+	 background-position: center;
+	 color:  white;
+	 padding: 250px 0px;
+}
+
+.banner h1{
+	font-size: 40px;
+	font-weight: bold;
+	margin-left: 30px;
+}
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	margin-left: 40px;
+}
+
+.banner h3 {
+	font-size: 15px;
+	font-weight: lighter;
+	margin: 30px 30px;
+	color: black;
+
+}
